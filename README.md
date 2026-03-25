@@ -1,4 +1,4 @@
-# monthly expenses tracking
+# Monthly expenses tracking
 
 This project is a simple web application that helps users track their daily expenses.
 
